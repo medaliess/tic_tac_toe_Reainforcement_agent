@@ -1,14 +1,21 @@
-# tic_tac_toe Reainforcement agent
+# Tic-Tac-Toe Game
 
-This project is a simple implementation of the classic Tic-Tac-Toe game in Python. To run the game, follow these steps:
+This project is a Python implementation of the classic Tic-Tac-Toe game. It includes various game agents, such as Monte Carlo, TD Zero, and TD Lambda, allowing you to play against different AI opponents.
 
-1 - Download all the project files.
+## Getting Started
 
-2 - Place the files in the same directory/repository.
+Follow these steps to run the game:
 
-3 - Execute the main_tictactoe.py file to initiate the main game class.
+1. Download all project files.
+2. Place the files in the same directory/repository.
+3. Execute the `main_tictactoe.py` file to initiate the main game class.
+
+## Game Agents
+
+Choose an option to play against different AI agents:
+
+- **Monte Carlo Agent (Option 1)**
+- **TD Zero Agent (Option 2)**
+- **TD Lambda Agent (Option 3)**
 
 
-The project includes different modules for various game agents, such as Monte Carlo, TD Zero, and TD Lambda. You can choose to play against these agents by selecting the corresponding option when prompted.
-
-Enjoy playing Tic-Tac-Toe against different AI agents and explore the functionalities of the game!
