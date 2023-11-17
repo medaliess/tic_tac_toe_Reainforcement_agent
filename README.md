@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This project is a Python implementation of the classic Tic-Tac-Toe game. It includes various game agents, such as Monte Carlo, TD Zero, and TD Lambda, allowing you to play against different AI opponents.
+This project is a Python implementation of the classic Tic-Tac-Toe game. It includes various game reinforcement agents, such as Monte Carlo, TD Zero, and TD Lambda, allowing you to play against different AI opponents.
 
 ## Getting Started
 
