@@ -8,7 +8,7 @@ Follow these steps to run the game:
 
 1. Download all project files.
 2. Place the files in the same directory/repository.
-3. Execute the `main_tictactoe.py` file to initiate the main game class.
+3. Execute the `Main_tictactoe.py` file to initiate the main game class.
 
 ## Game Agents
 
